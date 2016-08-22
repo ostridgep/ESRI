@@ -6,7 +6,7 @@
         id        = "com.aws.myjobsesri"
         version   = "1.160822.0000">
 
-    <name>MyJobs</name>
+    <name>MyJobsESRI</name>
     <description>
         MyJobs (ESRI)
     </description>
